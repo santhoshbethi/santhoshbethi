@@ -63,6 +63,6 @@
 
 ### 🎓 Certifications
 
-![NVIDIA - Building RAG Agents with LLMs](https://img.shields.io/badge/NVIDIA-Building%20RAG%20Agents%20with%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![NVIDIA - Accelerated Computing with CUDA Python](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Accelerated%20Computing%20with%20CUDA%20Python-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![LinkedIn - Model Context Protocol (MCP)](https://img.shields.io/badge/LinkedIn-Learning%20Model%20Context%20Protocol%20(MCP)%20with%20Agentic%20AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![NVIDIA - Building RAG Agents with LLMs](https://learn.nvidia.com/certificates?id=_AoMIzUvR3exqwBgBbcjzA)
+![NVIDIA - Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=KcF5GpXaThGn-177ctBVdw)
+![LinkedIn - Model Context Protocol (MCP)](https://www.linkedin.com/learning/certificates/64e2bee598e9a1ea5b72f518e022478cfa0dcf41e9a56772b252e8f80e53257c)
