@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Santhosh+Kumar+Bethi;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&background=ffffff&width=435&lines=Hello!+My+name+is+Santhosh+Kumar+Bethi;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
+
 <br />
 ##### MOTTO
 
