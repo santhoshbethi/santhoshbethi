@@ -6,13 +6,6 @@
 
 > Don't quit
 > 
-<div align="center">
-
-![Your github status](https://github-readme-stats.vercel.app/api?username=Santhoshbethi&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshbethi&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-=======
-  </div>
 
 ## 📫 **Contact**
 
